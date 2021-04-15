@@ -1,0 +1,7 @@
+Total Documents,5500
+
+Search Query,Document containing term (df),Total Documents(N)/Number of documents term appeared (df),Log10(N/df)
+
+Flu,49,112.24,2.05
+Snow,121,45.45,1.66
+Cold,318,17.3,1.24
